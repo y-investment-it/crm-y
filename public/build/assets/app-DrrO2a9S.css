@@ -1,0 +1,1 @@
+:root{--engaz-transition: .2s ease}.reassign-trigger:disabled,.reassign-footer button:disabled{opacity:.7;cursor:not-allowed}.reassign-fade-enter-active,.reassign-fade-leave-active{transition:opacity var(--engaz-transition)}.reassign-fade-enter-from,.reassign-fade-leave-to{opacity:0}
